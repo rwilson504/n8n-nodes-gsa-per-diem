@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-gsa-per-diem.gsaPerDiem",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Miscellaneous"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://open.gsa.gov/api/perdiem/"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://open.gsa.gov/api/perdiem/"
+			}
+		]
+	}
+}

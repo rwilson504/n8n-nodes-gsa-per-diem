@@ -1,0 +1,14 @@
+# Source files
+nodes/
+credentials/
+gulpfile.js
+tsconfig.json
+.eslintrc.js
+.prettierrc.js
+.github/
+
+# Dev/build artifacts
+*.ts
+!dist/**
+.git/
+.gitignore
