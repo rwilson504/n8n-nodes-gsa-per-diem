@@ -23,7 +23,7 @@
     "url": "https://www.richardawilson.com/"
   },
   "repository": {
-    "type": "git",    npm config set //registry.npmjs.org/:_authToken YOUR_TOKEN    npm config set //registry.npmjs.org/:_authToken YOUR_TOKEN    npm config set //registry.npmjs.org/:_authToken YOUR_TOKEN
+    "type": "git",
     "url": "https://github.com/rwilson504/n8n-nodes-gsa-per-diem.git"
   },
   "scripts": {
